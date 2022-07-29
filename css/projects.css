@@ -163,6 +163,10 @@ nav {
     filter: invert(36%) sepia(90%) saturate(3454%) hue-rotate(335deg) brightness(94%) contrast(106%); 
 }
 
+.git:hover, .live:hover {
+    filter: invert(36%) sepia(90%) saturate(3454%) hue-rotate(335deg) brightness(100%) contrast(186%); 
+}
+
 #card15 {
     margin-left: 20px;
 }
